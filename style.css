@@ -1,0 +1,18 @@
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+p {
+    max-width: 1330px;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+#flag {
+    width: 400px;
+    height: 250px;
+}
+img {
+    height: 400px;
+}
